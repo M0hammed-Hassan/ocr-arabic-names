@@ -10,7 +10,7 @@ ocr_arabic_name/
 │   ├── name1.txt
 │   └── ...
 │
-├── src/Ocr
+├── src/
 │   ├── configs.py           
 │   ├── dataset.py    
 │   ├── main.py           
@@ -18,19 +18,32 @@ ocr_arabic_name/
 │   ├── seeding.py            
 │   ├── utils.py         
 │
-├── myproject/
+├── app/
 │   ├── manager.py
 │   └── ...
 │
-├── README.md               
+├── checkpoints/  
+│   ├── best.pth.tar  
+│   ├── last.pth.tar
 │
-├── report.pdf              
+├── logs/  
+│   ├── run_date
+│   └── ...
+│     
+├── run.sh               
+│
+├── report.pdf  
+│         
+├── README.md    
+
 ```
 
 ## To Start Training The Pipeline
 - Using shell command:
 
      ```./run.sh```
+
+## To Use My Checkpoints
 
 - Using python command:
 
