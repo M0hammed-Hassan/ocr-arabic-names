@@ -38,12 +38,13 @@ ocr_arabic_name/
 
 ```
 
+## To Use My Checkpoints
+- [Downlad Checkpoints](https://drive.google.com/file/d/15R76NcTc-ZULc_QX-JM7dvwDvfDJVS-E/view?usp=sharing)
+
 ## To Start Training The Pipeline
 - Using shell command:
 
      ```./run.sh```
-
-## To Use My Checkpoints
 
 - Using python command:
 
