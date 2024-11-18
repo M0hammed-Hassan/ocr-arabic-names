@@ -1,14 +1,14 @@
 import json
 import torch
-import torch.nn.functional as F
-from rest_framework.views import APIView
-from rest_framework import status
-from .model import CRNNModel
-from torchvision import transforms
 from PIL import Image
-from rest_framework.parsers import MultiPartParser, FormParser
-from django.http import HttpResponse
+from .model import CRNNModel
+import torch.nn.functional as F
+from rest_framework import status
+from torchvision import transforms
 from django.shortcuts import render
+from django.http import HttpResponse
+from rest_framework.views import APIView
+from rest_framework.parsers import MultiPartParser, FormParser
 
 
 class PredictionView(APIView):
