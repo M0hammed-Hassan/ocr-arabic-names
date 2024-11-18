@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Image Path</title>
+</head>
+<body>
+    <h1>Upload Image Path for Prediction</h1>
+    <form action="/api/predict/" method="post">
+        {% csrf_token %}
+        <label for="image_path">Image Path:</label>
+        <input type="text" id="image_path" name="image_path" required>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,185 @@
+2024-11-18 01:16:39.175 | INFO     | utils:setup_logs:101 - Logging Started
+2024-11-18 01:16:39.727 | INFO     | __main__:prepare_data:47 - Data prepared successfully
+2024-11-18 01:16:41.311 | INFO     | __main__:train_model:107 - Epoch: 1 ==> best checkpt saved
+2024-11-18 01:16:41.311 | INFO     | __main__:train_model:108 - Epoch: 1 / 100 | training loss = 3.0805
+2024-11-18 01:16:42.289 | INFO     | __main__:train_model:107 - Epoch: 2 ==> best checkpt saved
+2024-11-18 01:16:42.289 | INFO     | __main__:train_model:108 - Epoch: 2 / 100 | training loss = 2.5484
+2024-11-18 01:16:43.267 | INFO     | __main__:train_model:107 - Epoch: 3 ==> best checkpt saved
+2024-11-18 01:16:43.267 | INFO     | __main__:train_model:108 - Epoch: 3 / 100 | training loss = 2.0862
+2024-11-18 01:16:44.248 | INFO     | __main__:train_model:107 - Epoch: 4 ==> best checkpt saved
+2024-11-18 01:16:44.248 | INFO     | __main__:train_model:108 - Epoch: 4 / 100 | training loss = 1.6886
+2024-11-18 01:16:45.226 | INFO     | __main__:train_model:107 - Epoch: 5 ==> best checkpt saved
+2024-11-18 01:16:45.227 | INFO     | __main__:train_model:108 - Epoch: 5 / 100 | training loss = 1.3602
+2024-11-18 01:16:46.216 | INFO     | __main__:train_model:107 - Epoch: 6 ==> best checkpt saved
+2024-11-18 01:16:46.216 | INFO     | __main__:train_model:108 - Epoch: 6 / 100 | training loss = 1.0914
+2024-11-18 01:16:47.188 | INFO     | __main__:train_model:107 - Epoch: 7 ==> best checkpt saved
+2024-11-18 01:16:47.188 | INFO     | __main__:train_model:108 - Epoch: 7 / 100 | training loss = 0.8658
+2024-11-18 01:16:48.158 | INFO     | __main__:train_model:107 - Epoch: 8 ==> best checkpt saved
+2024-11-18 01:16:48.158 | INFO     | __main__:train_model:108 - Epoch: 8 / 100 | training loss = 0.6784
+2024-11-18 01:16:49.128 | INFO     | __main__:train_model:107 - Epoch: 9 ==> best checkpt saved
+2024-11-18 01:16:49.129 | INFO     | __main__:train_model:108 - Epoch: 9 / 100 | training loss = 0.5238
+2024-11-18 01:16:50.097 | INFO     | __main__:train_model:107 - Epoch: 10 ==> best checkpt saved
+2024-11-18 01:16:50.098 | INFO     | __main__:train_model:108 - Epoch: 10 / 100 | training loss = 0.4055
+2024-11-18 01:16:51.057 | INFO     | __main__:train_model:107 - Epoch: 11 ==> best checkpt saved
+2024-11-18 01:16:51.057 | INFO     | __main__:train_model:108 - Epoch: 11 / 100 | training loss = 0.3155
+2024-11-18 01:16:52.021 | INFO     | __main__:train_model:107 - Epoch: 12 ==> best checkpt saved
+2024-11-18 01:16:52.022 | INFO     | __main__:train_model:108 - Epoch: 12 / 100 | training loss = 0.2527
+2024-11-18 01:16:52.997 | INFO     | __main__:train_model:107 - Epoch: 13 ==> best checkpt saved
+2024-11-18 01:16:52.997 | INFO     | __main__:train_model:108 - Epoch: 13 / 100 | training loss = 0.1955
+2024-11-18 01:16:53.956 | INFO     | __main__:train_model:107 - Epoch: 14 ==> best checkpt saved
+2024-11-18 01:16:53.957 | INFO     | __main__:train_model:108 - Epoch: 14 / 100 | training loss = 0.1517
+2024-11-18 01:16:54.930 | INFO     | __main__:train_model:107 - Epoch: 15 ==> best checkpt saved
+2024-11-18 01:16:54.930 | INFO     | __main__:train_model:108 - Epoch: 15 / 100 | training loss = 0.1176
+2024-11-18 01:16:55.917 | INFO     | __main__:train_model:107 - Epoch: 16 ==> best checkpt saved
+2024-11-18 01:16:55.917 | INFO     | __main__:train_model:108 - Epoch: 16 / 100 | training loss = 0.0912
+2024-11-18 01:16:56.888 | INFO     | __main__:train_model:107 - Epoch: 17 ==> best checkpt saved
+2024-11-18 01:16:56.888 | INFO     | __main__:train_model:108 - Epoch: 17 / 100 | training loss = 0.0715
+2024-11-18 01:16:57.864 | INFO     | __main__:train_model:107 - Epoch: 18 ==> best checkpt saved
+2024-11-18 01:16:57.865 | INFO     | __main__:train_model:108 - Epoch: 18 / 100 | training loss = 0.0558
+2024-11-18 01:16:58.840 | INFO     | __main__:train_model:107 - Epoch: 19 ==> best checkpt saved
+2024-11-18 01:16:58.841 | INFO     | __main__:train_model:108 - Epoch: 19 / 100 | training loss = 0.0434
+2024-11-18 01:16:59.818 | INFO     | __main__:train_model:107 - Epoch: 20 ==> best checkpt saved
+2024-11-18 01:16:59.819 | INFO     | __main__:train_model:108 - Epoch: 20 / 100 | training loss = 0.0345
+2024-11-18 01:17:00.788 | INFO     | __main__:train_model:107 - Epoch: 21 ==> best checkpt saved
+2024-11-18 01:17:00.788 | INFO     | __main__:train_model:108 - Epoch: 21 / 100 | training loss = 0.0284
+2024-11-18 01:17:01.757 | INFO     | __main__:train_model:107 - Epoch: 22 ==> best checkpt saved
+2024-11-18 01:17:01.757 | INFO     | __main__:train_model:108 - Epoch: 22 / 100 | training loss = 0.0237
+2024-11-18 01:17:02.723 | INFO     | __main__:train_model:107 - Epoch: 23 ==> best checkpt saved
+2024-11-18 01:17:02.724 | INFO     | __main__:train_model:108 - Epoch: 23 / 100 | training loss = 0.0190
+2024-11-18 01:17:03.696 | INFO     | __main__:train_model:107 - Epoch: 24 ==> best checkpt saved
+2024-11-18 01:17:03.697 | INFO     | __main__:train_model:108 - Epoch: 24 / 100 | training loss = 0.0159
+2024-11-18 01:17:04.659 | INFO     | __main__:train_model:107 - Epoch: 25 ==> best checkpt saved
+2024-11-18 01:17:04.659 | INFO     | __main__:train_model:108 - Epoch: 25 / 100 | training loss = 0.0134
+2024-11-18 01:17:05.649 | INFO     | __main__:train_model:107 - Epoch: 26 ==> best checkpt saved
+2024-11-18 01:17:05.649 | INFO     | __main__:train_model:108 - Epoch: 26 / 100 | training loss = 0.0118
+2024-11-18 01:17:06.626 | INFO     | __main__:train_model:107 - Epoch: 27 ==> best checkpt saved
+2024-11-18 01:17:06.626 | INFO     | __main__:train_model:108 - Epoch: 27 / 100 | training loss = 0.0102
+2024-11-18 01:17:07.591 | INFO     | __main__:train_model:107 - Epoch: 28 ==> best checkpt saved
+2024-11-18 01:17:07.591 | INFO     | __main__:train_model:108 - Epoch: 28 / 100 | training loss = 0.0088
+2024-11-18 01:17:08.557 | INFO     | __main__:train_model:107 - Epoch: 29 ==> best checkpt saved
+2024-11-18 01:17:08.557 | INFO     | __main__:train_model:108 - Epoch: 29 / 100 | training loss = 0.0077
+2024-11-18 01:17:09.526 | INFO     | __main__:train_model:107 - Epoch: 30 ==> best checkpt saved
+2024-11-18 01:17:09.526 | INFO     | __main__:train_model:108 - Epoch: 30 / 100 | training loss = 0.0068
+2024-11-18 01:17:10.492 | INFO     | __main__:train_model:107 - Epoch: 31 ==> best checkpt saved
+2024-11-18 01:17:10.493 | INFO     | __main__:train_model:108 - Epoch: 31 / 100 | training loss = 0.0062
+2024-11-18 01:17:11.464 | INFO     | __main__:train_model:107 - Epoch: 32 ==> best checkpt saved
+2024-11-18 01:17:11.465 | INFO     | __main__:train_model:108 - Epoch: 32 / 100 | training loss = 0.0061
+2024-11-18 01:17:12.436 | INFO     | __main__:train_model:107 - Epoch: 33 ==> best checkpt saved
+2024-11-18 01:17:12.436 | INFO     | __main__:train_model:108 - Epoch: 33 / 100 | training loss = 0.0053
+2024-11-18 01:17:13.415 | INFO     | __main__:train_model:107 - Epoch: 34 ==> best checkpt saved
+2024-11-18 01:17:13.415 | INFO     | __main__:train_model:108 - Epoch: 34 / 100 | training loss = 0.0044
+2024-11-18 01:17:14.390 | INFO     | __main__:train_model:107 - Epoch: 35 ==> best checkpt saved
+2024-11-18 01:17:14.390 | INFO     | __main__:train_model:108 - Epoch: 35 / 100 | training loss = 0.0039
+2024-11-18 01:17:15.364 | INFO     | __main__:train_model:107 - Epoch: 36 ==> best checkpt saved
+2024-11-18 01:17:15.365 | INFO     | __main__:train_model:108 - Epoch: 36 / 100 | training loss = 0.0035
+2024-11-18 01:17:16.343 | INFO     | __main__:train_model:107 - Epoch: 37 ==> best checkpt saved
+2024-11-18 01:17:16.343 | INFO     | __main__:train_model:108 - Epoch: 37 / 100 | training loss = 0.0032
+2024-11-18 01:17:17.324 | INFO     | __main__:train_model:107 - Epoch: 38 ==> best checkpt saved
+2024-11-18 01:17:17.324 | INFO     | __main__:train_model:108 - Epoch: 38 / 100 | training loss = 0.0029
+2024-11-18 01:17:18.197 | INFO     | __main__:train_model:108 - Epoch: 39 / 100 | training loss = 0.0030
+2024-11-18 01:17:19.165 | INFO     | __main__:train_model:107 - Epoch: 40 ==> best checkpt saved
+2024-11-18 01:17:19.166 | INFO     | __main__:train_model:108 - Epoch: 40 / 100 | training loss = 0.0025
+2024-11-18 01:17:20.136 | INFO     | __main__:train_model:107 - Epoch: 41 ==> best checkpt saved
+2024-11-18 01:17:20.136 | INFO     | __main__:train_model:108 - Epoch: 41 / 100 | training loss = 0.0023
+2024-11-18 01:17:21.108 | INFO     | __main__:train_model:107 - Epoch: 42 ==> best checkpt saved
+2024-11-18 01:17:21.108 | INFO     | __main__:train_model:108 - Epoch: 42 / 100 | training loss = 0.0021
+2024-11-18 01:17:22.083 | INFO     | __main__:train_model:107 - Epoch: 43 ==> best checkpt saved
+2024-11-18 01:17:22.083 | INFO     | __main__:train_model:108 - Epoch: 43 / 100 | training loss = 0.0020
+2024-11-18 01:17:23.074 | INFO     | __main__:train_model:107 - Epoch: 44 ==> best checkpt saved
+2024-11-18 01:17:23.075 | INFO     | __main__:train_model:108 - Epoch: 44 / 100 | training loss = 0.0018
+2024-11-18 01:17:24.053 | INFO     | __main__:train_model:107 - Epoch: 45 ==> best checkpt saved
+2024-11-18 01:17:24.053 | INFO     | __main__:train_model:108 - Epoch: 45 / 100 | training loss = 0.0017
+2024-11-18 01:17:24.931 | INFO     | __main__:train_model:108 - Epoch: 46 / 100 | training loss = 0.0017
+2024-11-18 01:17:25.812 | INFO     | __main__:train_model:108 - Epoch: 47 / 100 | training loss = 0.0024
+2024-11-18 01:17:26.682 | INFO     | __main__:train_model:108 - Epoch: 48 / 100 | training loss = 0.0023
+2024-11-18 01:17:27.560 | INFO     | __main__:train_model:108 - Epoch: 49 / 100 | training loss = 0.0019
+2024-11-18 01:17:28.439 | INFO     | __main__:train_model:108 - Epoch: 50 / 100 | training loss = 0.0024
+2024-11-18 01:17:29.316 | INFO     | __main__:train_model:108 - Epoch: 51 / 100 | training loss = 0.0024
+2024-11-18 01:17:30.191 | INFO     | __main__:train_model:108 - Epoch: 52 / 100 | training loss = 0.0021
+2024-11-18 01:17:31.065 | INFO     | __main__:train_model:108 - Epoch: 53 / 100 | training loss = 0.0022
+2024-11-18 01:17:31.944 | INFO     | __main__:train_model:108 - Epoch: 54 / 100 | training loss = 0.0025
+2024-11-18 01:17:32.822 | INFO     | __main__:train_model:108 - Epoch: 55 / 100 | training loss = 0.0018
+2024-11-18 01:17:33.700 | INFO     | __main__:train_model:108 - Epoch: 56 / 100 | training loss = 0.0120
+2024-11-18 01:17:34.574 | INFO     | __main__:train_model:108 - Epoch: 57 / 100 | training loss = 0.0232
+2024-11-18 01:17:35.453 | INFO     | __main__:train_model:108 - Epoch: 58 / 100 | training loss = 0.0260
+2024-11-18 01:17:36.334 | INFO     | __main__:train_model:108 - Epoch: 59 / 100 | training loss = 0.0158
+2024-11-18 01:17:37.214 | INFO     | __main__:train_model:108 - Epoch: 60 / 100 | training loss = 0.0091
+2024-11-18 01:17:38.092 | INFO     | __main__:train_model:108 - Epoch: 61 / 100 | training loss = 0.0029
+2024-11-18 01:17:38.970 | INFO     | __main__:train_model:108 - Epoch: 62 / 100 | training loss = 0.0019
+2024-11-18 01:17:39.961 | INFO     | __main__:train_model:107 - Epoch: 63 ==> best checkpt saved
+2024-11-18 01:17:39.962 | INFO     | __main__:train_model:108 - Epoch: 63 / 100 | training loss = 0.0012
+2024-11-18 01:17:40.960 | INFO     | __main__:train_model:107 - Epoch: 64 ==> best checkpt saved
+2024-11-18 01:17:40.960 | INFO     | __main__:train_model:108 - Epoch: 64 / 100 | training loss = 0.0011
+2024-11-18 01:17:41.951 | INFO     | __main__:train_model:107 - Epoch: 65 ==> best checkpt saved
+2024-11-18 01:17:41.951 | INFO     | __main__:train_model:108 - Epoch: 65 / 100 | training loss = 0.0010
+2024-11-18 01:17:42.930 | INFO     | __main__:train_model:107 - Epoch: 66 ==> best checkpt saved
+2024-11-18 01:17:42.930 | INFO     | __main__:train_model:108 - Epoch: 66 / 100 | training loss = 0.0009
+2024-11-18 01:17:43.917 | INFO     | __main__:train_model:107 - Epoch: 67 ==> best checkpt saved
+2024-11-18 01:17:43.918 | INFO     | __main__:train_model:108 - Epoch: 67 / 100 | training loss = 0.0008
+2024-11-18 01:17:44.893 | INFO     | __main__:train_model:107 - Epoch: 68 ==> best checkpt saved
+2024-11-18 01:17:44.893 | INFO     | __main__:train_model:108 - Epoch: 68 / 100 | training loss = 0.0007
+2024-11-18 01:17:45.856 | INFO     | __main__:train_model:107 - Epoch: 69 ==> best checkpt saved
+2024-11-18 01:17:45.856 | INFO     | __main__:train_model:108 - Epoch: 69 / 100 | training loss = 0.0007
+2024-11-18 01:17:46.836 | INFO     | __main__:train_model:107 - Epoch: 70 ==> best checkpt saved
+2024-11-18 01:17:46.836 | INFO     | __main__:train_model:108 - Epoch: 70 / 100 | training loss = 0.0006
+2024-11-18 01:17:47.802 | INFO     | __main__:train_model:107 - Epoch: 71 ==> best checkpt saved
+2024-11-18 01:17:47.802 | INFO     | __main__:train_model:108 - Epoch: 71 / 100 | training loss = 0.0006
+2024-11-18 01:17:48.785 | INFO     | __main__:train_model:107 - Epoch: 72 ==> best checkpt saved
+2024-11-18 01:17:48.785 | INFO     | __main__:train_model:108 - Epoch: 72 / 100 | training loss = 0.0006
+2024-11-18 01:17:49.768 | INFO     | __main__:train_model:107 - Epoch: 73 ==> best checkpt saved
+2024-11-18 01:17:49.768 | INFO     | __main__:train_model:108 - Epoch: 73 / 100 | training loss = 0.0005
+2024-11-18 01:17:50.751 | INFO     | __main__:train_model:107 - Epoch: 74 ==> best checkpt saved
+2024-11-18 01:17:50.752 | INFO     | __main__:train_model:108 - Epoch: 74 / 100 | training loss = 0.0005
+2024-11-18 01:17:51.744 | INFO     | __main__:train_model:107 - Epoch: 75 ==> best checkpt saved
+2024-11-18 01:17:51.744 | INFO     | __main__:train_model:108 - Epoch: 75 / 100 | training loss = 0.0005
+2024-11-18 01:17:52.718 | INFO     | __main__:train_model:107 - Epoch: 76 ==> best checkpt saved
+2024-11-18 01:17:52.719 | INFO     | __main__:train_model:108 - Epoch: 76 / 100 | training loss = 0.0005
+2024-11-18 01:17:53.694 | INFO     | __main__:train_model:107 - Epoch: 77 ==> best checkpt saved
+2024-11-18 01:17:53.694 | INFO     | __main__:train_model:108 - Epoch: 77 / 100 | training loss = 0.0004
+2024-11-18 01:17:54.681 | INFO     | __main__:train_model:107 - Epoch: 78 ==> best checkpt saved
+2024-11-18 01:17:54.682 | INFO     | __main__:train_model:108 - Epoch: 78 / 100 | training loss = 0.0004
+2024-11-18 01:17:55.668 | INFO     | __main__:train_model:107 - Epoch: 79 ==> best checkpt saved
+2024-11-18 01:17:55.668 | INFO     | __main__:train_model:108 - Epoch: 79 / 100 | training loss = 0.0004
+2024-11-18 01:17:56.655 | INFO     | __main__:train_model:107 - Epoch: 80 ==> best checkpt saved
+2024-11-18 01:17:56.655 | INFO     | __main__:train_model:108 - Epoch: 80 / 100 | training loss = 0.0004
+2024-11-18 01:17:57.650 | INFO     | __main__:train_model:107 - Epoch: 81 ==> best checkpt saved
+2024-11-18 01:17:57.650 | INFO     | __main__:train_model:108 - Epoch: 81 / 100 | training loss = 0.0004
+2024-11-18 01:17:58.634 | INFO     | __main__:train_model:107 - Epoch: 82 ==> best checkpt saved
+2024-11-18 01:17:58.634 | INFO     | __main__:train_model:108 - Epoch: 82 / 100 | training loss = 0.0003
+2024-11-18 01:17:59.613 | INFO     | __main__:train_model:107 - Epoch: 83 ==> best checkpt saved
+2024-11-18 01:17:59.614 | INFO     | __main__:train_model:108 - Epoch: 83 / 100 | training loss = 0.0003
+2024-11-18 01:18:00.594 | INFO     | __main__:train_model:107 - Epoch: 84 ==> best checkpt saved
+2024-11-18 01:18:00.594 | INFO     | __main__:train_model:108 - Epoch: 84 / 100 | training loss = 0.0003
+2024-11-18 01:18:01.567 | INFO     | __main__:train_model:107 - Epoch: 85 ==> best checkpt saved
+2024-11-18 01:18:01.568 | INFO     | __main__:train_model:108 - Epoch: 85 / 100 | training loss = 0.0003
+2024-11-18 01:18:02.547 | INFO     | __main__:train_model:107 - Epoch: 86 ==> best checkpt saved
+2024-11-18 01:18:02.548 | INFO     | __main__:train_model:108 - Epoch: 86 / 100 | training loss = 0.0003
+2024-11-18 01:18:03.532 | INFO     | __main__:train_model:107 - Epoch: 87 ==> best checkpt saved
+2024-11-18 01:18:03.532 | INFO     | __main__:train_model:108 - Epoch: 87 / 100 | training loss = 0.0003
+2024-11-18 01:18:04.510 | INFO     | __main__:train_model:107 - Epoch: 88 ==> best checkpt saved
+2024-11-18 01:18:04.510 | INFO     | __main__:train_model:108 - Epoch: 88 / 100 | training loss = 0.0003
+2024-11-18 01:18:05.501 | INFO     | __main__:train_model:107 - Epoch: 89 ==> best checkpt saved
+2024-11-18 01:18:05.501 | INFO     | __main__:train_model:108 - Epoch: 89 / 100 | training loss = 0.0003
+2024-11-18 01:18:06.479 | INFO     | __main__:train_model:107 - Epoch: 90 ==> best checkpt saved
+2024-11-18 01:18:06.479 | INFO     | __main__:train_model:108 - Epoch: 90 / 100 | training loss = 0.0002
+2024-11-18 01:18:07.463 | INFO     | __main__:train_model:107 - Epoch: 91 ==> best checkpt saved
+2024-11-18 01:18:07.463 | INFO     | __main__:train_model:108 - Epoch: 91 / 100 | training loss = 0.0002
+2024-11-18 01:18:08.447 | INFO     | __main__:train_model:107 - Epoch: 92 ==> best checkpt saved
+2024-11-18 01:18:08.447 | INFO     | __main__:train_model:108 - Epoch: 92 / 100 | training loss = 0.0002
+2024-11-18 01:18:09.429 | INFO     | __main__:train_model:107 - Epoch: 93 ==> best checkpt saved
+2024-11-18 01:18:09.429 | INFO     | __main__:train_model:108 - Epoch: 93 / 100 | training loss = 0.0002
+2024-11-18 01:18:10.416 | INFO     | __main__:train_model:107 - Epoch: 94 ==> best checkpt saved
+2024-11-18 01:18:10.417 | INFO     | __main__:train_model:108 - Epoch: 94 / 100 | training loss = 0.0002
+2024-11-18 01:18:11.402 | INFO     | __main__:train_model:107 - Epoch: 95 ==> best checkpt saved
+2024-11-18 01:18:11.402 | INFO     | __main__:train_model:108 - Epoch: 95 / 100 | training loss = 0.0002
+2024-11-18 01:18:12.380 | INFO     | __main__:train_model:107 - Epoch: 96 ==> best checkpt saved
+2024-11-18 01:18:12.381 | INFO     | __main__:train_model:108 - Epoch: 96 / 100 | training loss = 0.0002
+2024-11-18 01:18:13.356 | INFO     | __main__:train_model:107 - Epoch: 97 ==> best checkpt saved
+2024-11-18 01:18:13.356 | INFO     | __main__:train_model:108 - Epoch: 97 / 100 | training loss = 0.0002
+2024-11-18 01:18:14.343 | INFO     | __main__:train_model:107 - Epoch: 98 ==> best checkpt saved
+2024-11-18 01:18:14.344 | INFO     | __main__:train_model:108 - Epoch: 98 / 100 | training loss = 0.0002
+2024-11-18 01:18:15.346 | INFO     | __main__:train_model:107 - Epoch: 99 ==> best checkpt saved
+2024-11-18 01:18:15.346 | INFO     | __main__:train_model:108 - Epoch: 99 / 100 | training loss = 0.0002
+2024-11-18 01:18:16.321 | INFO     | __main__:train_model:107 - Epoch: 100 ==> best checkpt saved
+2024-11-18 01:18:16.321 | INFO     | __main__:train_model:108 - Epoch: 100 / 100 | training loss = 0.0002
+2024-11-18 01:18:16.393 | INFO     | __main__:train_model:112 - Last checkot saved.
